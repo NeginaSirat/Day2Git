@@ -5,5 +5,7 @@ public class Day2Demo {
 		System.out.println("day 2");
 	}
 
-
+	public void getInfo() {
+		System.out.println("Pushing code...");
+	}
 }
